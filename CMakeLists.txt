@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.25)
+project(CompetitiveProgramming)
+
+set(CMAKE_CXX_STANDARD 11)
+set( CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin )
+
+add_executable(CompetitiveProgramming main.cpp competitive_problems/three_dim_printed_statues.cpp competitive_problems/alice_bob.cpp competitive_problems/weak_vertices.cpp competitive_problems/dice_game.cpp competitive_problems/ten_kinds_of_people.cpp competitive_problems/ten_kind_people2.cpp competitive_problems/two_zero_four_eight.cpp competitive_problems/one_dim_frog.cpp competitive_problems/a_one_paper.cpp)
+

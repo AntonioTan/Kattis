@@ -1,0 +1,7 @@
+*
+!*.*
+bin
+*.dSYM
+.DS_STORE
+CMakeFiles
+cmake-build-debug

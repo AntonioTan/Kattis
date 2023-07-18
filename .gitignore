@@ -1,5 +1,8 @@
 *
 !*.*
+!*/
+*.class
+*.sm
 bin
 *.dSYM
 .DS_STORE

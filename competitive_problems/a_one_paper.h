@@ -1,0 +1,14 @@
+//
+// Created by Tabbit on 7/17/23.
+//
+
+#ifndef COMPETITIVEPROGRAMMING_A_ONE_PAPER_H
+#define COMPETITIVEPROGRAMMING_A_ONE_PAPER_H
+
+
+class a_one_paper {
+
+};
+
+
+#endif //COMPETITIVEPROGRAMMING_A_ONE_PAPER_H

@@ -1,0 +1,14 @@
+//
+// Created by Tabbit on 7/16/23.
+//
+
+#ifndef COMPETITIVEPROGRAMMING_WEAK_VERTICES_H
+#define COMPETITIVEPROGRAMMING_WEAK_VERTICES_H
+
+
+class weak_vertices {
+
+};
+
+
+#endif //COMPETITIVEPROGRAMMING_WEAK_VERTICES_H

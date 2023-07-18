@@ -1,0 +1,14 @@
+//
+// Created by Tabbit on 7/16/23.
+//
+
+#ifndef COMPETITIVEPROGRAMMING_TEN_KINDS_OF_PEOPLE_H
+#define COMPETITIVEPROGRAMMING_TEN_KINDS_OF_PEOPLE_H
+
+
+class ten_kinds_of_people {
+
+};
+
+
+#endif //COMPETITIVEPROGRAMMING_TEN_KINDS_OF_PEOPLE_H

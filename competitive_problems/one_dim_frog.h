@@ -1,0 +1,14 @@
+//
+// Created by Tabbit on 7/17/23.
+//
+
+#ifndef COMPETITIVEPROGRAMMING_ONE_DIM_FROG_H
+#define COMPETITIVEPROGRAMMING_ONE_DIM_FROG_H
+
+
+class one_dim_frog {
+
+};
+
+
+#endif //COMPETITIVEPROGRAMMING_ONE_DIM_FROG_H

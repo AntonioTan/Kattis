@@ -1,0 +1,14 @@
+//
+// Created by Tabbit on 7/16/23.
+//
+
+#ifndef COMPETITIVEPROGRAMMING_DICE_GAME_H
+#define COMPETITIVEPROGRAMMING_DICE_GAME_H
+
+
+class dice_game {
+
+};
+
+
+#endif //COMPETITIVEPROGRAMMING_DICE_GAME_H
